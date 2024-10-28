@@ -1,0 +1,15 @@
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\bin\Debug\net8.0\CalculateAverageStudents.exe
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\bin\Debug\net8.0\CalculateAverageStudents.deps.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\bin\Debug\net8.0\CalculateAverageStudents.runtimeconfig.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\bin\Debug\net8.0\CalculateAverageStudents.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\bin\Debug\net8.0\CalculateAverageStudents.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.AssemblyInfoInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.AssemblyInfo.cs
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.csproj.CoreCompileInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.sourcelink.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\refint\CalculateAverageStudents.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\CalculateAverageStudents.genruntimeconfig.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\CalculateAverageStudents\obj\Debug\net8.0\ref\CalculateAverageStudents.dll

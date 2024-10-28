@@ -1,0 +1,15 @@
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\bin\Debug\net8.0\FirstCode.exe
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\bin\Debug\net8.0\FirstCode.deps.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\bin\Debug\net8.0\FirstCode.runtimeconfig.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\bin\Debug\net8.0\FirstCode.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\bin\Debug\net8.0\FirstCode.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfoInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.AssemblyInfo.cs
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.csproj.CoreCompileInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.sourcelink.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\refint\FirstCode.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\FirstCode.genruntimeconfig.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FirstCode\obj\Debug\net8.0\ref\FirstCode.dll
