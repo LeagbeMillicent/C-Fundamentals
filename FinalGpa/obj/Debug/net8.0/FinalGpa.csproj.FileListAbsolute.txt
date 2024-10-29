@@ -1,0 +1,15 @@
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\bin\Debug\net8.0\FinalGpa.exe
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\bin\Debug\net8.0\FinalGpa.deps.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\bin\Debug\net8.0\FinalGpa.runtimeconfig.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\bin\Debug\net8.0\FinalGpa.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\bin\Debug\net8.0\FinalGpa.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.AssemblyInfoInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.AssemblyInfo.cs
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.csproj.CoreCompileInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.sourcelink.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\refint\FinalGpa.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\FinalGpa.genruntimeconfig.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\FinalGpa\obj\Debug\net8.0\ref\FinalGpa.dll
