@@ -1,0 +1,15 @@
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\bin\Debug\net8.0\MethodCall.exe
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\bin\Debug\net8.0\MethodCall.deps.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\bin\Debug\net8.0\MethodCall.runtimeconfig.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\bin\Debug\net8.0\MethodCall.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\bin\Debug\net8.0\MethodCall.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.AssemblyInfoInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.AssemblyInfo.cs
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.csproj.CoreCompileInputs.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.sourcelink.json
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\refint\MethodCall.dll
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.pdb
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\MethodCall.genruntimeconfig.cache
+C:\Users\millicent.leagbe\RiderProjects\C-Fundamentals\MethodCall\obj\Debug\net8.0\ref\MethodCall.dll
