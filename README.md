@@ -33,7 +33,7 @@ Console.Write("You wrote your first lines of code.");
 Congratulations!
 You wrote your first lines of code.
 
-#.NET Libraries
+# .NET Libraries
 The .NET Class Library is a collection of thousands of classes containing tens of thousands of methods. For example, 
 the .NET Class Library includes the Console class for developers working on console applications. 
 The Console class includes methods for input and output operations such as Write(), WriteLine(), Read(), ReadLine(), and many others
@@ -46,3 +46,14 @@ The Console class includes methods for input and output operations such as Write
 -When calling a stateful method, you need to create an instance of the class, and access the method on the object.
 -Use the new operator to create a new instance of a class.
 -An instance of a class is called an object.
+# Difference between Parameter and Argument 
+'Parameter' refers to the variable that's being used inside the method. An 'Argument' is the value that's passed when the method is called.
+
+--Example of Parameter: In the function Add(int a, int b), a and b are parameters. They act as placeholders for any values you want to add together.
+--Example of Argument: If you call Add(5, 3), then 5 and 3 are arguments. These are the real values that get assigned to a and b when the function runs.
+
+# Array Basics
+Arrays can be used to store multiple values of the same type in a single variable. The values stored in an array are generally related. 
+For example, a list of student names could be stored in a string array named students.
+"An array is a collection of individual data elements accessible through a single variable name. You use a zero-based numeric index to access each element of an array. 
+Arrays allow you to create a collection of data values that shares a common purpose or characteristics under a single variable name for easier processing."
